@@ -1,1 +1,2 @@
-RUN rpspath.m first
+We inclues all the necessary path variable within 'rpspath' file. 
+Run rpspath first before you run the demo file 'elliptic'
